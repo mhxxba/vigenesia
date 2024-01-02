@@ -1,6 +1,6 @@
-# vigenesia
+# PROJECT VIGENESIA Teknologi Web Service
 
-A new Flutter project.
+PROJECT MATAKULIAH TWS SEMESTER 5
 
 ## Getting Started
 
@@ -23,3 +23,10 @@ flutter pub get
 ```
 flutter run
 ```
+
+## LANGUAGE & TOOLS THAT I USED IN THIS PROJECT
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="DART" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+</p>
