@@ -16,6 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## How to run
+- import database to localhost
 - open terminal
 ```
 flutter pub get
