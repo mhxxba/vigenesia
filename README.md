@@ -24,7 +24,7 @@ flutter pub get
 flutter run
 ```
 
-## LANGUAGE & TOOLS THAT I USED IN THIS PROJECT
+## LANGUAGE & TOOLS
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="DART" width="50" height="50"/> 
