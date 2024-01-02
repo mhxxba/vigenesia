@@ -17,5 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## How to run
 -open terminal
--`flutter pub get`
--`flutter run`
+```
+flutter pub get
+```
+```
+flutter run
+```
